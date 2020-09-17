@@ -3,6 +3,7 @@
 body {
     animation-name: myanimation;
     animation-duration: 0.1s;
+  
 }
 
 /* .container-fluid.footer{
@@ -16,7 +17,7 @@ body {
     border-radius:5px;
     border:2px solid black;
     margin:4px;
-    margin-left:auto;
+    /* margin-left:auto; */
     float:left;
     
     
@@ -956,3 +957,12 @@ color:grey;
     margin:auto;
     display:block;
 }
+
+.contact-footer{
+margin-bottom:0rem;
+}
+
+.contact-hr{
+margin-top:1em;
+}
+
